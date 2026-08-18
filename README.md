@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/sonoran-signal.png" alt="Layered Sonoran Desert at blue hour with Phoenix on the horizon" width="100%" />
+  <img src="./assets/twitter-header.jpg" alt="Phoenix skyline framed by desert mountains and saguaro cacti" width="100%" />
 </p>
 
 <h1 align="center">ARI BRADSHAW</h1>
@@ -15,10 +15,6 @@
 </p>
 
 I build systems for domains where software has to survive contact with the real world: campaigns, healthcare, media, internal operations, music, and games.
-
-I currently lead software development for a major medical company.
-
-Most of my production work lives in private repositories. What is public is the edge of a much larger map.
 
 ## Selected work
 
@@ -42,8 +38,6 @@ A living archive of releases, collaborations, engineering, production work, and 
 
 AI systems · automation · data infrastructure · campaign technology · telemedicine · internal tools · music software · video games
 
-I usually operate behind the interface: architecture, data, automation, integrations, deployment, and the operational logic that makes a product useful.
-
 ## Companies
 
 **Sunbelt Solutions Consulting LLC**  
@@ -56,5 +50,5 @@ Technology consulting and internal systems
 Music, audio, and games
 
 <p align="center">
-  <sub>The interesting part is usually behind the interface.</sub>
+  <sub>You can learn anything in this world by using the Socratic method and following cause-effect chains.</sub>
 </p>
