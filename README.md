@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://flygonlc.com"><img src="https://img.shields.io/badge/FLYGON_LC-111827?style=for-the-badge&labelColor=111827&color=C65D32" alt="Flygon LC" /></a>
+  <a href="https://sunbeltsolutions.org"><img src="https://img.shields.io/badge/SUNBELT_SOLUTIONS-0B3D91?style=for-the-badge&labelColor=062D70&color=F5A623" alt="Sunbelt Solutions Consulting" /></a>
+  <a href="https://flygonlc.com"><img src="https://img.shields.io/badge/FLYGON_LC-324B34?style=for-the-badge&labelColor=324B34&color=7CB980" alt="Flygon LC" /></a>
   <a href="https://aribradshaw.music"><img src="https://img.shields.io/badge/MUSIC-111827?style=for-the-badge&labelColor=111827&color=256D85" alt="Ari Bradshaw Music" /></a>
 </p>
 
@@ -40,7 +41,7 @@ AI systems · automation · data infrastructure · campaign technology · teleme
 
 ## Companies
 
-**[Sunbelt Solutions Consulting LLC](https://sunbeltsolutions.org)**  
+**Sunbelt Solutions Consulting LLC**  
 Political strategy and campaign software
 
 **Flygon LC**  
