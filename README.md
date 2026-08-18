@@ -40,7 +40,7 @@ AI systems · automation · data infrastructure · campaign technology · teleme
 
 ## Companies
 
-**Sunbelt Solutions Consulting LLC**  
+**[Sunbelt Solutions Consulting LLC](https://sunbeltsolutions.org)**  
 Political strategy and campaign software
 
 **Flygon LC**  
