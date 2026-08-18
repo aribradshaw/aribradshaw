@@ -26,9 +26,9 @@ A strategic incremental game about trees, taxes, and cosmic ambition. Built as a
 
 A turn-based presidential campaign simulator spanning all fifty states. It combines historical election data with dynamic polling, resource management, voter-group relationships, momentum systems, and a strategic opponent in a retro television interface.
 
-### [Open-source audio](https://github.com/katspaugh/wavesurfer.js/pull/4352)
+### Open-source music technology
 
-Contributor to `wavesurfer.js`. My first upstream fix corrected recording-duration accounting across pause and resume cycles in the project’s recording plugin.
+Contributor to [`wavesurfer.js`](https://github.com/katspaugh/wavesurfer.js/pull/4352) and [`Verovio`](https://github.com/rism-digital/verovio/pull/4434), spanning browser audio and a C++ music-notation engine. My upstream fixes corrected recording-duration accounting across pause cycles and restored accurate page lookup for timed score elements.
 
 ### [Music and production](https://aribradshaw.music)
 
