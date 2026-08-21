@@ -29,7 +29,7 @@ A turn-based presidential campaign simulator spanning all fifty states. It combi
 
 ### Open-source music technology
 
-Contributor to [`wavesurfer.js`](https://github.com/katspaugh/wavesurfer.js/pull/4352) and [`Verovio`](https://github.com/rism-digital/verovio/pull/4434), spanning browser audio and a C++ music-notation engine. My upstream fixes corrected recording-duration accounting across pause cycles and restored accurate page lookup for timed score elements.
+Merged upstream work in [`wavesurfer.js` recording](https://github.com/katspaugh/wavesurfer.js/pull/4352), [`wavesurfer.js` WebKit playback](https://github.com/katspaugh/wavesurfer.js/pull/4353), and [`Verovio`](https://github.com/rism-digital/verovio/pull/4434), plus a [published Werkstatt DC Blocker preset](https://github.com/andremichelle/openDAW/pull/344#issuecomment-5360657134) for [`openDAW`](https://github.com/andremichelle/openDAW). These contributions corrected recording-duration accounting across pause cycles, made early browser-media seeking reliable on WebKit, restored accurate page lookup for timed score elements, and added a reusable 2 Hz DC-removal tool to an open-source DAW.
 
 ### [Music and production](https://aribradshaw.music)
 
