@@ -57,13 +57,13 @@ Releases, collaborations, engineering, production work, and music videos spannin
 
 ## Bradshaw Versioning
 
-**A draft proposal for making continuously shipped software easier to trace.**
+**A calendar-based versioning convention I use across production projects.**
 
 Bradshaw Versioning gives every production commit a permanent `YEAR.MONTH.UPDATE` identity, while recording compatibility and deployment status separately. A version tells you where the code belongs in the release history, not whether it is backward-compatible or successfully deployed. Retries keep the same source version; rollbacks preserve the original artifact's identity.
 
-The proposal builds on Calendar Versioning, with explicit rules for calendar boundaries, concurrent release coordination, failures, and recovery. It is a draft for review, not a claim of universal adoption or a replacement for every use of Semantic Versioning.
+The convention builds on Calendar Versioning, with explicit rules for calendar boundaries, concurrent release coordination, failures, and recovery. It is actively used in production projects, not a replacement for every use of Semantic Versioning.
 
-**[Read the draft specification](https://github.com/aribradshaw/devlog/blob/main/docs/bradshaw-versioning.md)** · **[Explore DevLog](https://github.com/aribradshaw/devlog)**, a headless TypeScript toolkit for release histories.
+**[Read the specification](https://github.com/aribradshaw/devlog/blob/main/docs/bradshaw-versioning.md)** · **[Explore DevLog](https://github.com/aribradshaw/devlog)**, a headless TypeScript toolkit for release histories.
 
 ## Companies
 
